@@ -1,6 +1,7 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## To run this project locally
+First clone this repository by running this command git clone https://github.com/ShashiKant130/Dashboard.git
+Then install node_modules by running npm i
+Then run npm start
 
 ## Available Scripts
 
