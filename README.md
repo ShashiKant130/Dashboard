@@ -1,7 +1,8 @@
 ## To run this project locally
-First clone this repository by running this command `git clone https://github.com/ShashiKant130/Dashboard.git`.
-Then install node_modules by running `npm i`.
-Then run `npm start`.
+First clone this repository by running this command 
+### `git clone https://github.com/ShashiKant130/Dashboard.git`.
+Then install node_modules by running ### `npm i`.
+Then run ### `npm start`.
 
 ## Available Scripts
 
